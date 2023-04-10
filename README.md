@@ -1,2 +1,2 @@
 # star-citizen-logi-extreme
-Star Citizen Logitech Extreme 3D Pro joystick profile
+Moved to [new repository](https://github.com/Chadarius/sc-config/tree/main/Profiles/LogiExtrm). 
